@@ -1,4 +1,4 @@
-## Oiii eu sou a Danilo Fernandes, criador de conteúdo de games e estudante de programação e tecnologia pela Alura 👋
+## Oiii eu sou o Danilo Fernandes, criador de conteúdo de games e estudante de programação e tecnologia pela Alura 👋
 
 - 🌱 Atualmente estou estudando javascript / HTML / CSS
 - 📫 email de contato: danilo.gafer@gmail.com
