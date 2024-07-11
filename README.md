@@ -5,7 +5,6 @@
 </div>
 
 - 🌱 Atualmente estou estudando javascript / HTML / CSS
-- 📫 email de contato: danilo.gafer@gmail.com
 - 😄 Pronomes: ele / dele
 
 <div style="display: inline_block"><br>
