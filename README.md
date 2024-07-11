@@ -1,5 +1,9 @@
 ## Oiii eu sou o Danilo Fernandes, criador de conteúdo de games e estudante de programação e tecnologia pela Alura 👋
 
+<div>
+  <img src="/assets/imagem.jpg">
+</div>
+
 - 🌱 Atualmente estou estudando javascript / HTML / CSS
 - 📫 email de contato: danilo.gafer@gmail.com
 - 😄 Pronomes: ele / dele
