@@ -1,4 +1,4 @@
-## Oiii eu sou o Danilo Fernandes e atualmente sou estudante de programação e tecnologia pela Alura 👋
+## Oiii eu sou o Danilo Fernandes estudante de programação e tecnologia pela Alura 👋
 
 <div>
   <img src="/assets/imagem.jpg">
